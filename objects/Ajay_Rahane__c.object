@@ -183,7 +183,7 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>third__c</fullName>
+        <fullName>Third__c</fullName>
         <externalId>false</externalId>
         <label>Third</label>
         <length>20</length>
